@@ -10,6 +10,16 @@
     margin: 0;
     padding: 0;
 }
+
+.meals-loading {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.meals-error {
+    text-align: center;
+    color: red;
+}
   
 @keyframes meals-appear {
     from {
